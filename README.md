@@ -24,7 +24,7 @@ Deployed using **GitHub Pages**.
 - **CSS / Tailwind (if used)** – Styling
 - **GitHub Pages** – Deployment
 - 
-<h1 style="padding:15px;background-color:rgb(0,92,255);color:white;font-size:20px;border-radius:100px"> The quiz data looks like this</h1>
+ # The quiz data looks like this
 
 - {
   "About": {
