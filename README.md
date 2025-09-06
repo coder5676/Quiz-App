@@ -1,4 +1,4 @@
-# Quiz-App
+<h1 style="padding:15px;background-color:rgb(0,92,255);color:white;font-size:20px;border-radius:100px"> Quiz-App</h1>
 Quiz App build using React js
 # 🎯 React Quiz App
 
