@@ -26,7 +26,11 @@ Deployed using **GitHub Pages**.
 - 
  # The quiz data looks like this
 
-- {
+-## 📑 JSON Question Data Example
+Questions are stored in a JSON file (`data.json`) like this:
+
+```json
+ {
   "About": {
     "topic": "Introduction to Web Development",
     "time":60,
@@ -148,4 +152,3 @@ Deployed using **GitHub Pages**.
 
 ---
 
-## 📂 Project Structure
