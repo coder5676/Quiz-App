@@ -1,4 +1,4 @@
-<h1 style="padding:15px;background-color:rgb(0,92,255);color:white;font-size:20px;border-radius:100px"> Quiz-App</h1>
+# Quiz-App
 Quiz App build using React js
 # 🎯 React Quiz App
 
@@ -23,7 +23,8 @@ Deployed using **GitHub Pages**.
 - **React Router DOM** – Routing (Quiz / Result pages)
 - **CSS / Tailwind (if used)** – Styling
 - **GitHub Pages** – Deployment
-<h1>The quiz data looks like this</h1>
+- 
+<h1 style="padding:15px;background-color:rgb(0,92,255);color:white;font-size:20px;border-radius:100px"> The quiz data looks like this</h1>
 
 - {
   "About": {
